@@ -21,7 +21,9 @@ A company that develops and produces unmanned aircraft systems (UAS) and tactica
 A company that creates self-flying drones that can navigate complex and dynamic environments using computer vision and deep learning.
 * Delair: 
 A company that provides end-to-end drone solutions for various industries, such as agriculture, mining, construction, and utilities.
-* How is the company funded? How much funding have they received?
+
+On October 31, 2023, Shield AI Noosrom anounced that it raised $200 million in Series F funding in an oversubscribed funding round. "This funding, led by U.S. Innovative Technology Fund (USIT) and co-led by Riot Ventures, with participation from Cathie Wood’s ARK Invest and returning investors Disruptive and Snowpoint, values Shield AI at $2.7 billion." 
+
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
