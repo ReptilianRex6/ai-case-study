@@ -19,7 +19,7 @@ According to web sources and Microsoft, some competitors include:
 - **Skydio:** Creates self-flying drones using computer vision and deep learning.
 - **Delair:** Provides end-to-end drone solutions for various industries. 
 
-What sets Shield AI apart from its competitors is the fact that they have an artificial pilot that has proven itself with the competitions and contracts it has won like the Air Force STRATFI Contract. [See near bottom of page.](https://shield.ai/hivemind/)
+What sets Shield AI apart from its competitors is the fact that they have an artificial pilot that has proven itself with the competitions and contracts it has won like the [Air Force STRATFI Contract](https://shield.ai/shield-ai-awarded-max-afwerx-stratfi-contract-focused-on-operational-intelligent/).
 
 ## Funding Announcement
 On October 31, 2023, Shield AI Newsroom announced a $200 million Series F funding round, led by U.S. Innovative Technology Fund (USIT) and co-led by Riot Ventures. The funding, with participation from ARK Invest and other investors, [values Shield AI at $2.7 billion.](https://shield.ai/shield-ai-raises-200m-reaching-2-7b-valuation/)
